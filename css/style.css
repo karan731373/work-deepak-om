@@ -1,80 +1,7 @@
- 
-/* Css For Acto */
 
-/************ TABLE OF CONTENTS ***************
-1. Fonts
-2. Reset
-3. Global
-4. Main Header/style-one/style-two/style-three/style-four/style-five/style-six/style-seven/style-eight/style-nine
-5. Main Slider/style-one/style-two/style-three/style-four/style-five/style-six/style-seven/style-eight
-6. Weare Section
-7. Ourmission Section
-9. Service Section
-8. About Section
-10. Factory Section
-11. Project Section
-12. Testimonial Section
-14. Team Section
-15. News Section
-16. Main Footer
-19. Ourmission Style Two
-20. Service Style Two
-21. About Style Two
-22. Service Style Two
-23. Team Style Two
-24. Call To Action
-25. Footer Style Two
-26. About Style Three
-27. Ourmission Style Three
-28. Service Style Three
-29. Wehelp Section
-30. Project Style Three
-31. Subscribe Section
-32. Intro Section
-33. Oilgas Section
-34. Growth Section
-35. Energy Section
-36. Shop Section
-37. Industries Section
-38. Fact Counter
-39. Textile Section
-40. Product Section
-41. Medical Equepment
-42. Signup Section
-43. Statistics Section
-44. About Bannner
-45. Service Page
-46. Service Banner
-47. Service Single
-48. Shop Page
-49. Shop Banner
-50. Single Shop
-51. Our History
-52. Partner Page
-53. Testimonial Page
-54. Gallery Page
-55. Comingsoon Page
-56. Error Page
-57. Case Studies
-58. Case Single
-59. Blog Grid Page
-60. Blog Classic Page
-61. Blog Single Page
-62. Contact Page
-63. Contact Section
-64. Contact Form
-65. Google Map
-
-
-**********************************************/
-
-
-/* use font link */
 
 @import url('https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i&display=swap');
 
-
-/* use style sheet */
 
 @import url(../css/font-awesome-all.css);
 @import url(../css/flaticon.css);
@@ -924,7 +851,7 @@ img {
 .main-header .header-bottom{
   position: relative;
   display: block;
-  background: transparent;
+  background: #fff;
 }
 
 .main-header .header-bottom .outer-container{
@@ -3177,7 +3104,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   font-size: 20px;
   line-height: 30px;
   font-weight: 400;
-  color: #192d66;
+  color: #fd571d;
   margin-bottom: 19px;
 }
 
@@ -3185,6 +3112,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   position: relative;
   display: block;
   margin-bottom: 4px;
+  color: #fff;
 }
 
 .main-footer .footer-top .links-widget .widget-content ul li:last-child{
@@ -3195,7 +3123,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   position: relative;
   display: inline-block;
   font-size: 16px;
-  color: #616b8c;
+  color: #fff;
 }
 
 .main-footer .footer-top .links-widget .widget-content ul li a:hover{
@@ -3216,13 +3144,14 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 .main-footer .footer-bottom .copyright{
   position: relative;
   font-size: 15px;
-  color: #616b8c;
+  color: #fff;
 }
 
 .main-footer .footer-bottom .footer-social li{
   position: relative;
   display: inline-block;
   margin-right: 20px;
+  color: #fff;
 }
 
 .main-footer .footer-bottom .footer-social li:last-child{
@@ -3230,10 +3159,17 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 }
 
 .main-footer .footer-bottom .footer-social li a{
-  position: relative;
-  display: inline-block;
-  font-size: 16px;
-  color: #192d66;
+    position: relative;
+    display: inline-block;
+    font-size: 16px;
+    color: #ffffff;
+    background: red;
+    padding: 10px;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    justify-content: center;
 }
 
 .main-footer .footer-bottom .footer-social li a:hover{
@@ -4614,7 +4550,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 
 .main-footer.style-two{
   position: relative;
-  background: #f9fbff;
+  background: #000;
 }
 
 .main-footer.style-two .footer-top {
