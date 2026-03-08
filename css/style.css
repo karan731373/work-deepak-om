@@ -849,7 +849,8 @@ img {
 /** header-bottom **/
 
 .main-header .header-bottom{
-  position: relative;
+  position: fixed;
+  width: 100%;
   display: block;
   background: #fff;
 }
@@ -7806,9 +7807,9 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 .slider-style-five .content-box h1{
   position: relative;
   display: block;
-  font-size: 90px;
+  font-size: 80px;
   line-height: 88px;
-  color: #0c0d24;
+  color: #fff;
   font-weight: 700;
   margin-bottom: 23px;
   opacity:0;
@@ -7839,7 +7840,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   display: block;
   font-size: 24px;
   line-height: 32px;
-  color: #0c0d24;
+  color: #fff;
   margin-bottom: 29px;
   opacity:0;
   -webkit-transition: all 1000ms ease;
@@ -7916,7 +7917,8 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 .slider-style-five .content-box:before{
   position: absolute;
   content: '';
-  border: 10px solid #fff;
+  border: 10px solid #fd571d;
+  border-right: 0px;
   width: 355px;
   height: 490px;
   left: -50px;
@@ -9393,7 +9395,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 .slider-style-six .slide:before{
   position: absolute;
   content: '';
-  background: rgba(255, 255, 255, 0.65);
+  /* background: rgba(255, 255, 255, 0.65); */
   width: 100%;
   height: 100%;
   left: 0px;
@@ -9404,7 +9406,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   position: absolute;
   left: 370px;
   top: 100%;
-  transform: translateY(-50px);
+  transform: translateY(-100px);
   max-width: 1200px;
   width: 100%;
   margin: 0 auto;
