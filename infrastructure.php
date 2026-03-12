@@ -32,7 +32,7 @@
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="card custom-card h-100 p-4">
                     <div class="card-body">
-                        <div class="icon-box">
+                        <div class="icon-box-infra">
                             <svg width="28" height="28" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path></svg>
                         </div>
                         <h5 class="card-title">Advanced Manufacturing Complex</h5>
@@ -44,7 +44,7 @@
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="card custom-card h-100 p-4">
                     <div class="card-body">
-                        <div class="icon-box">
+                        <div class="icon-box-infra">
                             <svg width="28" height="28" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M2 10s3-3 3-8 7 1 7 1 7-6 7-1v8c0 5-7 8-7 8s-7-3-7-8z"></path><path d="M12 22V12"></path></svg>
                         </div>
                         <h5 class="card-title">R&D and Stress-Testing Lab</h5>
@@ -56,7 +56,7 @@
             <div class="col-lg-4 col-md-6 mb-4">
                 <div class="card custom-card h-100 p-4">
                     <div class="card-body">
-                        <div class="icon-box">
+                        <div class="icon-box-infra">
                             <svg width="28" height="28" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"></circle><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path><path d="M2 12h20"></path></svg>
                         </div>
                         <h5 class="card-title">Global Fulfilment Hub</h5>

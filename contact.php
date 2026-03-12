@@ -27,8 +27,7 @@
                     <h3 class="om-contact-title">Main Office</h3>
                     <div class="om-contact-divider"></div>
                     <div class="om-contact-detail">
-                        121 King Street, Melbourne<br>
-                        Victoria 3000 Australia
+                        Industrial Area, Phase 2, Ludhiana, Punjab
                     </div>
                 </div>
             </div>
@@ -41,8 +40,8 @@
                     <h3 class="om-contact-title">Phone Support</h3>
                     <div class="om-contact-divider"></div>
                     <div class="om-contact-detail">
-                        <a href="tel:8801912704287">+88 01912704287</a>
-                        <a href="tel:029292162">+02 929 2162</a>
+                        <a href="tel:+917719530167">+917719530167</a>
+                        <!-- <a href="tel:029292162">+02 929 2162</a> -->
                     </div>
                 </div>
             </div>
@@ -55,7 +54,7 @@
                     <h3 class="om-contact-title">Email Inquiries</h3>
                     <div class="om-contact-divider"></div>
                     <div class="om-contact-detail">
-                        <a href="mailto:omexports2021@gmail.com">info@om-group.com</a>
+                        <a href="mailto:omexports2021@gmail.com">omexports2021@gmail.com</a>
                         <a href="mailto:support@example.com">support@om-group.com</a>
                     </div>
                 </div>
