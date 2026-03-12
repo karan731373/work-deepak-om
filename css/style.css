@@ -19744,3 +19744,144 @@ font-weight:700;
 font-weight:600;
 letter-spacing:1px;
 }
+
+.om-infra{
+    background:#f8f9fa;
+}
+
+.om-infra-box{
+    background:#fff;
+    padding:35px 25px;
+    border-radius:10px;
+    transition:0.3s;
+    border:1px solid #eee;
+}
+
+.om-infra-box:hover{
+    transform:translateY(-8px);
+    box-shadow:0 10px 25px rgba(0,0,0,0.1);
+}
+
+.om-infra-icon{
+    width:70px;
+    height:70px;
+    margin:auto;
+    border-radius:50%;
+    background:#007bff;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:28px;
+    color:#fff;
+}
+
+.om-infra-box h5{
+    font-weight:600;
+}
+
+.om-infra-box p{
+    font-size:14px;
+    color:#666;
+}
+
+/* Infrastructure Section */
+.infra-section{
+    padding:80px 0;
+    background: linear-gradient(135deg,#f5f7ff,#ffffff);
+}
+
+/* Card Design */
+.custom-card{
+    border-radius:18px;
+    border:0;
+    position:relative;
+    background: rgba(255,255,255,0.6);
+    backdrop-filter: blur(10px);
+    transition: all .35s ease;
+    overflow:hidden;
+}
+
+/* Gradient Border */
+.custom-card::before{
+    content:"";
+    position:absolute;
+    inset:0;
+    padding:1px;
+    border-radius:18px;
+    background: linear-gradient(120deg,#fd571c,#fd571c,#fd571c);
+    -webkit-mask:
+        linear-gradient(#fff 0 0) content-box,
+        linear-gradient(#fff 0 0);
+    -webkit-mask-composite:xor;
+            mask-composite:exclude;
+}
+
+/* Hover effect */
+.custom-card:hover{
+    transform: translateY(-8px);
+    box-shadow:0 20px 40px rgba(0,0,0,0.08);
+}
+
+/* Icon box */
+.icon-box{
+    width:60px;
+    height:60px;
+    border-radius:14px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin-bottom:18px;
+
+    background: linear-gradient(135deg,#fd571c,#fd571c);
+    color:#fff;
+    box-shadow:0 10px 25px rgba(106,92,255,0.35);
+    transition: all .35s ease;
+}
+
+/* Icon animation */
+.custom-card:hover .icon-box{
+    transform:scale(1.1) rotate(5deg);
+    box-shadow:0 12px 30px #fd571c;
+}
+
+/* Title */
+.custom-card .card-title{
+    font-weight:600;
+    font-size:20px;
+    margin-bottom:10px;
+    color:#222;
+}
+
+/* Text */
+.custom-card .card-text{
+    font-size:15px;
+    color:#666;
+    line-height:1.6;
+}
+
+/* Section text */
+.infra-section .lead{
+    font-size:17px;
+    line-height:1.7;
+}
+
+/* Optional floating gradient shapes */
+/* .infra-section::before,
+.infra-section::after{
+    content:"";
+    position:absolute;
+    width:300px;
+    height:300px;
+    background: radial-gradient(circle,#fd571c,transparent 50%);
+    z-index:0;
+} */
+/* 
+.infra-section::before{
+    top:-80px;
+    left:-80px;
+}
+
+.infra-section::after{
+    bottom:-80px;
+    right:-80px;
+} */

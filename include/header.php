@@ -62,7 +62,7 @@
                 <div class="outer-container">
                     <div class="nav-outer clearfix">
                         <div class="menu-area pull-left clearfix">
-                            <figure class="logo-box"><a href="index.html"><img src="images/om-logo.png" alt=""></a>
+                            <figure class="logo-box"><a href="index.php"><img src="images/om-logo.png" alt=""></a>
                             </figure>
                             <nav class="main-menu navbar-expand-lg">
                                 <div class="navbar-header">
@@ -77,19 +77,19 @@
                                 <div class="navbar-collapse collapse clearfix">
                                     <ul class="navigation clearfix">
 
-                                        <li class=""><a href="index-2.html">Home</a></li>
-                                        <li class=""><a href="about.html">About Us</a></li>
+                                        <li class=""><a href="index.php">Home</a></li>
+                                        <li class=""><a href="about.php">About Us</a></li>
                                         <li class="current dropdown"><a href="#">Products</a>
                                             <ul>
-                                                <li><a href="product.html#form">Form Works</a></li>
-                                                <li><a href="product.html#scaffoldings">Scaffoldings</a></li>
-                                                <li><a href="product.html#scaffoldings">Geotechnics</a></li>
-                                                <li><a href="product.html#fabrication">Fabrication</a></li>
+                                                <li><a href="product.php#form">Form Works</a></li>
+                                                <li><a href="product.php#scaffoldings">Scaffoldings</a></li>
+                                                <li><a href="product.php#scaffoldings">Geotechnics</a></li>
+                                                <li><a href="product.php#fabrication">Fabrication</a></li>
                                             </ul>
                                         </li>
-                                        <li class=""><a href="infrastructure.html">Infrastructure</a></li>
-                                        <li class=""><a href="quality.html">Quality</a></li>
-                                        <li class=""><a href="contact.html">Contact us</a></li>
+                                        <li class=""><a href="infrastructure.php">Infrastructure</a></li>
+                                        <li class=""><a href="quality.php">Quality</a></li>
+                                        <li class=""><a href="contact.php">Contact us</a></li>
 
                                     </ul>
                                 </div>
@@ -107,7 +107,7 @@
         <!--sticky Header-->
         <!-- <div class="sticky-header">
             <div class="container clearfix">
-                <figure class="logo-box"><a href="index.html"><img src="images/small-logo.png" alt=""></a></figure>
+                <figure class="logo-box"><a href="index.php"><img src="images/small-logo.png" alt=""></a></figure>
                 <div class="menu-area">
                     <nav class="main-menu navbar-expand-lg">
                         <div class="navbar-header">
@@ -122,24 +122,24 @@
                             <ul class="navigation clearfix">
                                 <li class="current dropdown"><a href="#">Home</a>
                                     <ul>
-                                        <li><a href="index.html">Home Factory</a></li>
-                                        <li><a href="index-2.html">Home Industry</a></li>
-                                        <li><a href="index-3.html">Home Construction</a></li>
-                                        <li><a href="index-4.html">Home Oil & Gas</a></li>
-                                        <li><a href="index-5.html">Home Power Energy</a></li>
-                                        <li><a href="index-6.html">Home Industrial Machinery</a></li>
-                                        <li><a href="index-7.html">Home Fabric & Textile</a></li>
-                                        <li><a href="index-8.html">Home Medical Equepments</a></li>
+                                        <li><a href="index.php">Home Factory</a></li>
+                                        <li><a href="index.php">Home Industry</a></li>
+                                        <li><a href="index-3.php">Home Construction</a></li>
+                                        <li><a href="index-4.php">Home Oil & Gas</a></li>
+                                        <li><a href="index-5.php">Home Power Energy</a></li>
+                                        <li><a href="index-6.php">Home Industrial Machinery</a></li>
+                                        <li><a href="index-7.php">Home Fabric & Textile</a></li>
+                                        <li><a href="index-8.php">Home Medical Equepments</a></li>
                                         <li class="dropdown"><a href="#">Header Styles</a>
                                             <ul>
-                                                <li><a href="index.html">Header Style 01</a></li>
-                                                <li><a href="index-2.html">Header Style 02</a></li>
-                                                <li><a href="index-3.html">Header Style 03</a></li>
-                                                <li><a href="index-4.html">Header Style 04</a></li>
-                                                <li><a href="index-5.html">Header Style 05</a></li>
-                                                <li><a href="index-6.html">Header Style 06</a></li>
-                                                <li><a href="index-7.html">Header Style 07</a></li>
-                                                <li><a href="index-8.html">Header Style 08</a></li>
+                                                <li><a href="index.php">Header Style 01</a></li>
+                                                <li><a href="index.php">Header Style 02</a></li>
+                                                <li><a href="index-3.php">Header Style 03</a></li>
+                                                <li><a href="index-4.php">Header Style 04</a></li>
+                                                <li><a href="index-5.php">Header Style 05</a></li>
+                                                <li><a href="index-6.php">Header Style 06</a></li>
+                                                <li><a href="index-7.php">Header Style 07</a></li>
+                                                <li><a href="index-8.php">Header Style 08</a></li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -148,61 +148,61 @@
                                     <ul>
                                         <li class="dropdown"><a href="#">About Page</a>
                                             <ul>
-                                                <li><a href="about.html">About Type 01</a></li>
-                                                <li><a href="about-2.html">About Type 02</a></li>
+                                                <li><a href="about.php">About Type 01</a></li>
+                                                <li><a href="about-2.php">About Type 02</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="#">Team Page</a>
                                             <ul>
-                                                <li><a href="team.html">Team Type 01</a></li>
-                                                <li><a href="team-2.html">Team Type 02</a></li>
+                                                <li><a href="team.php">Team Type 01</a></li>
+                                                <li><a href="team-2.php">Team Type 02</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="#">Service Page</a>
                                             <ul>
-                                                <li><a href="service.html">Service Type 01</a></li>
-                                                <li><a href="service-2.html">Service Type 02</a></li>
-                                                <li><a href="service-3.html">Service Type 03</a></li>
-                                                <li><a href="service-single.html">Service Single 01</a></li>
-                                                <li><a href="service-single-2.html">Service Single 02</a></li>
+                                                <li><a href="service.php">Service Type 01</a></li>
+                                                <li><a href="service-2.php">Service Type 02</a></li>
+                                                <li><a href="service-3.php">Service Type 03</a></li>
+                                                <li><a href="service-single.php">Service Single 01</a></li>
+                                                <li><a href="service-single-2.php">Service Single 02</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown"><a href="#">Shop Page</a>
                                             <ul>
-                                                <li><a href="shop.html">Shop Type 01</a></li>
-                                                <li><a href="shop-2.html">Shop Type 02</a></li>
-                                                <li><a href="shop-single.html">Single Shop</a></li>
+                                                <li><a href="shop.php">Shop Type 01</a></li>
+                                                <li><a href="shop-2.php">Shop Type 02</a></li>
+                                                <li><a href="shop-single.php">Single Shop</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="history.html">Our History</a></li>
-                                        <li><a href="partner.html">Our Partners</a></li>
-                                        <li><a href="testimonial.html">Our Testimonial</a></li>
-                                        <li><a href="gallery.html">Our Gallery</a></li>
-                                        <li><a href="coming-soon.html">Coming Soon</a></li>
-                                        <li><a href="error.html">Error Page</a></li>
+                                        <li><a href="history.php">Our History</a></li>
+                                        <li><a href="partner.php">Our Partners</a></li>
+                                        <li><a href="testimonial.php">Our Testimonial</a></li>
+                                        <li><a href="gallery.php">Our Gallery</a></li>
+                                        <li><a href="coming-soon.php">Coming Soon</a></li>
+                                        <li><a href="error.php">Error Page</a></li>
                                     </ul>
                                 </li> 
                                 <li class="dropdown"><a href="#">Case Studies</a>
                                     <ul>
-                                        <li><a href="case.html">Case Type 01</a></li>
-                                        <li><a href="case-2.html">Case Type 02</a></li>
-                                        <li><a href="case-3.html">Case Type 03</a></li>
-                                        <li><a href="case-4.html">Case Type 04</a></li>
-                                        <li><a href="case-single.html">Case Single 01</a></li>
-                                        <li><a href="case-single-2.html">Case Single 02</a></li>
+                                        <li><a href="case.php">Case Type 01</a></li>
+                                        <li><a href="case-2.php">Case Type 02</a></li>
+                                        <li><a href="case-3.php">Case Type 03</a></li>
+                                        <li><a href="case-4.php">Case Type 04</a></li>
+                                        <li><a href="case-single.php">Case Single 01</a></li>
+                                        <li><a href="case-single-2.php">Case Single 02</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#">Blog</a>
                                     <ul>
-                                        <li><a href="blog-grid.html">Blog Grid</a></li>
-                                        <li><a href="blog-classic.html">Blog Classic</a></li>
-                                        <li><a href="blog-single.html">Blog Single</a></li>
+                                        <li><a href="blog-grid.php">Blog Grid</a></li>
+                                        <li><a href="blog-classic.php">Blog Classic</a></li>
+                                        <li><a href="blog-single.php">Blog Single</a></li>
                                     </ul>
                                 </li>                              
                                 <li class="dropdown"><a href="#">Contact</a>
                                     <ul>
-                                        <li><a href="contact.html">Contact Type 01</a></li>
-                                        <li><a href="contact-2.html">Contact Type 02</a></li>
+                                        <li><a href="contact.php">Contact Type 01</a></li>
+                                        <li><a href="contact-2.php">Contact Type 02</a></li>
                                     </ul>
                                 </li> 
                             </ul>
