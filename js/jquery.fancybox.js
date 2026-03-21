@@ -1,13 +1,4 @@
-// ==================================================
-// fancyBox v3.2.10
-//
-// Licensed GPLv3 for open source use
-// or fancyBox Commercial License for commercial use
-//
-// http://fancyapps.com/fancybox/
-// Copyright 2017 fancyApps
-//
-// ==================================================
+
 ;(function (window, document, $, undefined) {
     'use strict';
 
@@ -56,9 +47,7 @@
         // Should display toolbar (buttons at the top)
         toolbar : true,
 
-        // What buttons should appear in the top right corner.
-        // Buttons will be created using templates from `btnTpl` option
-        // and they will be placed into toolbar (class="fancybox-toolbar"` element)
+      
         buttons : [
             'slideShow',
             'fullScreen',

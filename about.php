@@ -1,7 +1,5 @@
 <?php include 'include/header.php'; ?>
 
-
-<!-- about-banner -->
 <section class="about-banner" style="background-image: url(images/om/about-banner.jpg);">
     <div class="container">
         <div class="content-box text-white">
@@ -10,64 +8,66 @@
         </div>
     </div>
 </section>
-<!-- about-banner end -->
-<!-- about-style-five -->
+
 <section class="about-page">
 
-<div class="container">
-<div class="row align-items-center">
+    <div class="container">
+        <div class="row align-items-center">
 
-<!-- Left Image -->
-<div class="col-lg-6 col-md-12 mb-4 mb-lg-0">
-<div class="about-image">
-<img src="https://images.unsplash.com/photo-1503387762-592deb58ef4e" alt="construction">
-</div>
-</div>
-
-
-<!-- Right Content -->
-<div class="col-lg-6 col-md-12">
-<div class="about-content">
-
-<h3>About The Company</h3>
-<div class="subtitle">Bringing transformational change to a stagnant industry</div>
-
-<p>
-A strong foundation is the first step in building a great structure. We support the construction and infrastructure industry with dependable engineering systems designed for safety, durability, and long-term performance.
-</p>
-
-<p>
-With a focus on innovation and precision, we help contractors and developers execute projects efficiently while maintaining the highest standards of quality and structural integrity.
-</p>
+            <!-- Left Image -->
+            <div class="col-lg-6 col-md-12 mb-4 mb-lg-0">
+                <div class="about-image">
+                    <img src="https://images.unsplash.com/photo-1503387762-592deb58ef4e" alt="construction">
+                </div>
+            </div>
 
 
-<!-- Highlight Points -->
+            <!-- Right Content -->
+            <div class="col-lg-6 col-md-12">
+                <div class="about-content">
 
-<div class="highlight-box">
-<i class="fas fa-drafting-compass"></i>
-<span>Engineering Driven Design Solutions</span>
-</div>
+                    <h3>About The Company</h3>
+                    <div class="subtitle">Bringing transformational change to a stagnant industry</div>
 
-<div class="highlight-box">
-<i class="fas fa-shield-alt"></i>
-<span>High Safety and Quality Standards</span>
-</div>
+                    <p>
+                        A strong foundation is the first step in building a great structure. We support the construction
+                        and infrastructure industry with dependable engineering systems designed for safety, durability,
+                        and long-term performance.
+                    </p>
 
-<div class="highlight-box">
-<i class="fas fa-industry"></i>
-<span>Reliable Systems for Modern Construction</span>
-</div>
+                    <p>
+                        With a focus on innovation and precision, we help contractors and developers execute projects
+                        efficiently while maintaining the highest standards of quality and structural integrity.
+                    </p>
 
-<div class="highlight-box">
-<i class="fas fa-bolt"></i>
-<span>Efficient Execution and Faster Project Delivery</span>
-</div>
 
-</div>
-</div>
+                    <!-- Highlight Points -->
 
-</div>
-</div>
+                    <div class="highlight-box">
+                        <i class="fas fa-drafting-compass"></i>
+                        <span>Engineering Driven Design Solutions</span>
+                    </div>
+
+                    <div class="highlight-box">
+                        <i class="fas fa-shield-alt"></i>
+                        <span>High Safety and Quality Standards</span>
+                    </div>
+
+                    <div class="highlight-box">
+                        <i class="fas fa-industry"></i>
+                        <span>Reliable Systems for Modern Construction</span>
+                    </div>
+
+                    <div class="highlight-box">
+                        <i class="fas fa-bolt"></i>
+                        <span>Efficient Execution and Faster Project Delivery</span>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
 
 </section>
 
@@ -130,36 +130,43 @@ With a focus on innovation and precision, we help contractors and developers exe
             <div class="col-lg-6 col-md-6">
                 <div class="choose-box">
                     <div class="icon"><i class="fas fa-cogs"></i></div>
-                    <p><strong>Technical Expertise : </strong> Engineering support from blueprint to execution, ensuring every project is planned with precision and technical accuracy. Our experienced team provides guidance at every stage to deliver reliable and structurally sound solutions.</p>
+                    <p><strong>Technical Expertise : </strong> Engineering support from blueprint to execution, ensuring
+                        every project is planned with precision and technical accuracy. Our experienced team provides
+                        guidance at every stage to deliver reliable and structurally sound solutions.</p>
                 </div>
             </div>
 
             <div class="col-lg-6 col-md-6">
                 <div class="choose-box">
                     <div class="icon"><i class="fas fa-shield-alt"></i></div>
-                    <p><strong>Operational Safety : </strong>  Certified systems and processes that comply with strict industry safety standards. We prioritize worker safety, equipment reliability, and secure operations to maintain a safe and controlled project environment.</p>
+                    <p><strong>Operational Safety : </strong> Certified systems and processes that comply with strict
+                        industry safety standards. We prioritize worker safety, equipment reliability, and secure
+                        operations to maintain a safe and controlled project environment.</p>
                 </div>
             </div>
 
             <div class="col-lg-6 col-md-6">
                 <div class="choose-box">
                     <div class="icon"><i class="fas fa-industry"></i></div>
-                    <p><strong>Scalable Solutions : </strong>  Capable of supporting projects ranging from small construction builds to large-scale infrastructure developments. Our flexible systems adapt easily to different project sizes while maintaining efficiency and performance.</p>
+                    <p><strong>Scalable Solutions : </strong> Capable of supporting projects ranging from small
+                        construction builds to large-scale infrastructure developments. Our flexible systems adapt
+                        easily to different project sizes while maintaining efficiency and performance.</p>
                 </div>
             </div>
 
             <div class="col-lg-6 col-md-6">
                 <div class="choose-box">
                     <div class="icon"><i class="fas fa-bolt"></i></div>
-                    <p><strong>Efficiency : </strong>  Streamlined structural designs that help reduce on-site labor time and simplify installation. This approach improves productivity, minimizes delays, and ensures faster project completion without compromising quality.</p>
+                    <p><strong>Efficiency : </strong> Streamlined structural designs that help reduce on-site labor time
+                        and simplify installation. This approach improves productivity, minimizes delays, and ensures
+                        faster project completion without compromising quality.</p>
                 </div>
             </div>
 
         </div>
     </div>
 </section>
-<!-- about-style-five end -->
-<!-- counter-style-two -->
+
 <section class="counter-style-two">
     <div class="container">
         <div class="row">
@@ -206,29 +213,7 @@ With a focus on innovation and precision, we help contractors and developers exe
         </div>
     </div>
 </section>
-<!-- counter-style-two end -->
 
 
-<!-- subscribe-section -->
-<section class="subscribe-section about-page bg-color-3">
-    <div class="container">
-        <div class="inner-box">
-            <figure class="icon-box"><img src="images/om/about-inner.jpg" alt=""></figure>
-            <div class="content-box">
-                <h2>Get Subscribed Now!</h2>
-                <div class="text">The latest agopa news, articles, and resources, sent straight to your<br />inbox every
-                    month.</div>
-                <form action="#" method="post" class="subscribe-form">
-                    <div class="form-group">
-                        <input type="email" name="email" placeholder="Type Your Email" required="">
-                        <button type="submit">Subscribe Now</button>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- subscribe-section end -->
-<!-- main-footer -->
 
 <?php include 'include/footer.php'; ?>

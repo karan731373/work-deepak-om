@@ -19994,3 +19994,67 @@ font-size:22px;
 margin-right:12px;
 color:#ff6a00;
 }
+
+
+
+
+
+/* exports new */
+  .export-section {
+            background: #fff;
+            padding: 60px 0;
+        }
+
+        .export-title {
+            font-size: 34px;
+            font-weight: 700;
+            color: #1a2a4a;
+        }
+
+        .export-subtext {
+            font-size: 16px;
+            color: #555;
+            margin-top: 10px;
+        }
+
+        .export-card {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 25px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+            transition: 0.3s;
+            height: 100%;
+        }
+
+        .export-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .export-card h5 {
+            font-weight: 600;
+            color: #1F5FA6;
+            margin-bottom: 15px;
+        }
+
+        .export-list li {
+            margin-bottom: 8px;
+        }
+
+        .icon-circle {
+            width: 50px;
+            height: 50px;
+            background: #1F5FA6;
+            color: #fff;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            margin-bottom: 15px;
+        }
+
+        .export-footer {
+            margin-top: 40px;
+            font-weight: 500;
+            color: #333;
+        }

@@ -2,16 +2,16 @@
  <?php include 'include/header.php'; ?>
 
 
-    <!-- contact-banner -->
+
     <section class="contact-banner centred" style="background-image: url(images/om/contact-banner.jpg);">
         <div class="container">
             <div class="content-box">
                 <h1>Contact Us</h1>
-                <!-- <h3>If you have any general enquiries, we'd love to hear from you</h3> -->
+    
             </div>
         </div>
     </section>
-    <!-- contact-banner end -->
+
 
 
   

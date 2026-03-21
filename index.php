@@ -1,303 +1,270 @@
  <?php include 'include/header.php'; ?>
 
-    <!-- main-slider -->
-    <section class="slider-style-five slider-style-six">
-        <div class="main-slider-carousel-2 owl-carousel owl-theme">
-            <div class="slide" style="background-image:url(images/om/banner-2.jpg)">
-                <div class="container">
-                    <div class="content-box">
-                        <h1>Engineering Excellence</h1>
-                        <div class="text">Precision-grade structural solutions for global infrastructure</div>
-                        <div class="btn-box">
-                            <a href="#" class="btn-one">Contact Us</a>
-                            <!-- <a href="#" class="btn-two">Book Now</a> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="slide" style="background-image:url(images/om/banner-1.jpg)">
-                <div class="container">
-                    <div class="content-box">
-                        <h1>Defined by Strength</h1>
-                        <div class="text">High-performance Formwork, Scaffolding and Geotechnics</div>
-                        <div class="btn-box">
-                            <a href="#" class="btn-one">Read More</a>
-                            <!-- <a href="#" class="btn-two">Book Now</a> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="slide" style="background-image:url(images/om/banner-4.jpg)">
-                <div class="container">
-                    <div class="content-box">
-                        <h1>Building the Future</h1>
-                        <div class="text">Innovative systems engineered for safety and scale</div>
-                        <div class="btn-box">
-                            <a href="product.php" class="btn-one">Read More</a>
-                            <!-- <a href="#" class="btn-two">Book Now</a> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="slide" style="background-image:url(images/om/banner-3.jpg)">
-                <div class="container">
-                    <div class="content-box">
-                        <h1>Building the Future</h1>
-                        <div class="text">Innovative systems engineered for safety and scale</div>
-                        <div class="btn-box">
-                            <a href="#" class="btn-one">Contact Us</a>
-                            <!-- <a href="#" class="btn-two">Book Now</a> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- main-slider end -->
 
-    <!-- weare-section -->
-    <section class="weare-section style-two">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-7 col-md-12 col-sm-12 content-column">
-                    <div class="content-box">
-                        <div class="title-box">
-                            <h2>About Om Exports</h2>
-                            <div class="text">A strong foundation is the first step in building a great structure. We
-                                support the construction industry by ensuring projects rise safely and efficiently with
-                                our reliable engineering systems.</div>
-                        </div>
-                        <div class="inner-box clearfix" data-aos="fade-right" data-aos-easing="linear"
-                            data-aos-duration="1500">
-                            <div class="single-item">
-                                <div class="item">
-                                    <div class="icon-box"><i class="icon flaticon-industry"></i></div>
-                                    <h2>20+</h2>
-                                    <div class="text">Products</div>
-                                </div>
-                            </div>
-                            <div class="single-item">
-                                <div class="item">
-                                    <div class="icon-box"><i class="icon flaticon-pollution"></i></div>
-                                    <h2>20+</h2>
-                                    <div class="text">Team</div>
-                                </div>
-                            </div>
-                            <div class="button-box"><a href="#">Read more</a></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-5 col-md-12 col-sm-12 inner-column">
-                    <div class="experience-box" style="background-image: url(images/om/1.jpg);">
-                        <div class="experience-content wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                            <h1>15<span>Years</span></h1>
-                            <div class="text">Industries Experience</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- weare-section end -->
+ <section class="slider-style-five slider-style-six">
+     <div class="main-slider-carousel-2 owl-carousel owl-theme">
+         <div class="slide" style="background-image:url(images/om/banner-2.jpg)">
+             <div class="container">
+                 <div class="content-box">
+                     <h1>Engineering Excellence</h1>
+                     <div class="text">Precision-grade structural solutions for global infrastructure</div>
+                     <div class="btn-box">
+                         <a href="#" class="btn-one">Contact Us</a>
+                 
+                     </div>
+                 </div>
+             </div>
+         </div>
+         <div class="slide" style="background-image:url(images/om/banner-1.jpg)">
+             <div class="container">
+                 <div class="content-box">
+                     <h1>Defined by Strength</h1>
+                     <div class="text">High-performance Formwork, Scaffolding and Geotechnics</div>
+                     <div class="btn-box">
+                         <a href="#" class="btn-one">Read More</a>
+                  
+                     </div>
+                 </div>
+             </div>
+         </div>
+         <div class="slide" style="background-image:url(images/om/banner-4.jpg)">
+             <div class="container">
+                 <div class="content-box">
+                     <h1>Building the Future</h1>
+                     <div class="text">Innovative systems engineered for safety and scale</div>
+                     <div class="btn-box">
+                         <a href="product.php" class="btn-one">Read More</a>
+      
+                     </div>
+                 </div>
+             </div>
+         </div>
+         <div class="slide" style="background-image:url(images/om/banner-3.jpg)">
+             <div class="container">
+                 <div class="content-box">
+                     <h1>Building the Future</h1>
+                     <div class="text">Innovative systems engineered for safety and scale</div>
+                     <div class="btn-box">
+                         <a href="#" class="btn-one">Contact Us</a>
 
-
-    <!-- ourmission-style-two -->
-    <section class="ourmission-style-two">
-        <div class="image-column" style="background-image: url(images/om/2.jpg);"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-7 col-md-12 col-sm-12 content-column">
-                    <div class="content-box clearfix">
-                        <div class="title-text" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500">
-                            <h1>Om Exports</h1>
-                        </div>
-                        <div class="inner-content wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1500ms">
-                            <div class="content">
-                                <h2>Mission & Vision</h2>
-                                <div class="text">To support the global construction industry with reliable and
-                                    innovative structural solutions.</div>
-                                <div class="lower-content">
-                                    <div class="text">To become the world’s most trusted partner in infrastructure
-                                        development.</div>
-                                    <div class="text">The future of manufacturing is digital. </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-5 col-md-12 col-sm-12 inner-column">
-                    <div class="inner-box" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
-                        <div class="single-item">
-                            <figure class="icon-box"><img src="images/icons/icon-2.png" alt=""></figure>
-                            <h5><a href="#">Automotive Manufacturing</a></h5>
-                            <div class="text">We deliver strong engineering solutions that support modern automotive
-                                manufacturing and improve production efficiency.</div>
-                        </div>
-                        <div class="single-item">
-                            <figure class="icon-box"><img src="images/icons/icon-3.png" alt=""></figure>
-                            <h5><a href="#">Professional Team</a></h5>
-                            <div class="text">Our skilled engineers and specialists work with contractors and developers
-                                to deliver reliable, high-quality results.</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- ourmission-style-two end -->
-
-
-    <!-- service-style-two -->
-    <section class="service-style-two mt-5">
-        <div class="container">
-            <div class="sec-title centred">
-                <h1>Our Product Range</h1>
-                <p>Our product portfolio supports construction projects at every stage.</p>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 col-md-6 col-sm-12 service-block">
-                    <div class="service-block-two wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
-                        <div class="inner-box">
-                            <figure class="image-box"><a href="service-single.html"><img src="images/om/p-1.png"
-                                        alt=""></a></figure>
-                            <div class="lower-content">
-
-                                <h3><a href="service-single.html">Form Works</a></h3>
-
-                                <div class="link-btn"><a href="">View Porduct<i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 service-block">
-                    <div class="service-block-two wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <div class="inner-box">
-                            <figure class="image-box"><a href="service-single.html"><img src="images/om/p-2.png"
-                                        alt=""></a></figure>
-                            <div class="lower-content">
-
-                                <h3><a href="service-single.html">Scaffoldings</a></h3>
-
-                                <div class="link-btn"><a href="">View Porduct<i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                     </div>
+                 </div>
+             </div>
+         </div>
+     </div>
+ </section>
 
 
 
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 service-block">
-                    <div class="service-block-two wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
-                        <div class="inner-box">
-                            <figure class="image-box"><a href="service-single.html"><img src="images/om/p-3.png"
-                                        alt=""></a></figure>
-                            <div class="lower-content">
-
-                                <h3><a href="service-single.html">
-                                        Geotechnics</a></h3>
-
-                                <div class="link-btn"><a href="">View Porduct<i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 service-block">
-                    <div class="service-block-two wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
-                        <div class="inner-box">
-                            <figure class="image-box"><a href="service-single.html"><img src="images/om/p-4.png"
-                                        alt=""></a></figure>
-                            <div class="lower-content">
-
-                                <h3><a href="service-single.html">Fabrication</a></h3>
-
-                                <div class="link-btn"><a href="">View Porduct<i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- service-style-two end -->
-
-
-    <!-- about-style-two -->
-    <section class="about-style-two">
-        <div class="container">
-            <div class="inner-content">
-                <div class="anim-icon-1"></div>
-                <div class="row">
-                    <div class="col-lg-6 col-md-12 col-sm-12 content-column">
-                        <div class="content-box">
-                            <div class="top-content">
-                                <div class="top-text">Infrastructure</div>
-                                <h1>Our infrastructure is built to support accuracy, creativity, and quick delivery.
-                                </h1>
-                                <!-- <h2>A better way forward manufacturers</h2> -->
-                                <div class="text">Advanced Manufacturing Complex: Our factory has high-precision CNC
-                                    machines and automated robotic welding lines, so every part we make is accurate.
-                                </div>
-                            </div>
-                            <div class="inner-box wow fadeInLeft animated" data-wow-delay="300ms"
-                                data-wow-duration="1500ms">
-                                <div class="row">
-                                    <div class="col-lg-6 col-md-6 col-sm-12 single-column">
-                                        <div class="single-item">
-                                            <div class="icon-box"><i class="flaticon-factory-machine"></i></div>
-                                            <h5><a href="#">R&D and Stress-Testing Lab</a></h5>
-                                            <!-- <div class="text">Petroleum refiners, fuel transport and end-user sales at gas stations.</div> -->
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 col-md-6 col-sm-12 single-column">
-                                        <div class="single-item">
-                                            <div class="icon-box"><i class="flaticon-oil"></i></div>
-                                            <h5><a href="#">Logistics and Global Fulfilment Hubs</a></h5>
-                                            <!-- <div class="text">Petroleum refiners, fuel transport and end-user sales at gas stations.</div> -->
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-12 col-sm-12 image-column">
-                        <div class="image-box">
-                            <div class="anim-icon-2 wow zoomIn" data-wow-delay="900ms" data-wow-duration="1500ms"></div>
-                            <figure class="image"><img src="images/om/3.jpg" alt=""></figure>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- about-style-two end -->
+ <section class="weare-section style-two">
+     <div class="container">
+         <div class="row">
+             <div class="col-lg-7 col-md-12 col-sm-12 content-column">
+                 <div class="content-box">
+                     <div class="title-box">
+                         <h2>About Om Exports</h2>
+                         <div class="text">A strong foundation is the first step in building a great structure. We
+                             support the construction industry by ensuring projects rise safely and efficiently with
+                             our reliable engineering systems.</div>
+                     </div>
+                     <div class="inner-box clearfix" data-aos="fade-right" data-aos-easing="linear"
+                         data-aos-duration="1500">
+                         <div class="single-item">
+                             <div class="item">
+                                 <div class="icon-box"><i class="icon flaticon-industry"></i></div>
+                                 <h2>20+</h2>
+                                 <div class="text">Products</div>
+                             </div>
+                         </div>
+                         <div class="single-item">
+                             <div class="item">
+                                 <div class="icon-box"><i class="icon flaticon-pollution"></i></div>
+                                 <h2>20+</h2>
+                                 <div class="text">Team</div>
+                             </div>
+                         </div>
+                         <div class="button-box"><a href="#">Read more</a></div>
+                     </div>
+                 </div>
+             </div>
+             <div class="col-lg-5 col-md-12 col-sm-12 inner-column">
+                 <div class="experience-box" style="background-image: url(images/om/1.jpg);">
+                     <div class="experience-content wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
+                         <h1>15<span>Years</span></h1>
+                         <div class="text">Industries Experience</div>
+                     </div>
+                 </div>
+             </div>
+         </div>
+     </div>
+ </section>
 
 
+ <section class="ourmission-style-two">
+     <div class="image-column" style="background-image: url(images/om/2.jpg);"></div>
+     <div class="container">
+         <div class="row">
+             <div class="col-lg-7 col-md-12 col-sm-12 content-column">
+                 <div class="content-box clearfix">
+                     <div class="title-text" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500">
+                         <h1>Om Exports</h1>
+                     </div>
+                     <div class="inner-content wow fadeInLeft" data-wow-delay="00ms" data-wow-duration="1500ms">
+                         <div class="content">
+                             <h2>Mission & Vision</h2>
+                             <div class="text">To support the global construction industry with reliable and
+                                 innovative structural solutions.</div>
+                             <div class="lower-content">
+                                 <div class="text">To become the world’s most trusted partner in infrastructure
+                                     development.</div>
+                                 <div class="text">The future of manufacturing is digital. </div>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+             <div class="col-lg-5 col-md-12 col-sm-12 inner-column">
+                 <div class="inner-box" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500">
+                     <div class="single-item">
+                         <figure class="icon-box"><img src="images/icons/icon-2.png" alt=""></figure>
+                         <h5><a href="#">Automotive Manufacturing</a></h5>
+                         <div class="text">We deliver strong engineering solutions that support modern automotive
+                             manufacturing and improve production efficiency.</div>
+                     </div>
+                     <div class="single-item">
+                         <figure class="icon-box"><img src="images/icons/icon-3.png" alt=""></figure>
+                         <h5><a href="#">Professional Team</a></h5>
+                         <div class="text">Our skilled engineers and specialists work with contractors and developers
+                             to deliver reliable, high-quality results.</div>
+                     </div>
+                 </div>
+             </div>
+         </div>
+     </div>
+ </section>
+
+ <section class="service-style-two mt-5">
+     <div class="container">
+         <div class="sec-title centred">
+             <h1>Our Product Range</h1>
+             <p>Our product portfolio supports construction projects at every stage.</p>
+         </div>
+         <div class="row">
+             <div class="col-lg-3 col-md-6 col-sm-12 service-block">
+                 <div class="service-block-two wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
+                     <div class="inner-box">
+                         <figure class="image-box"><a href="service-single.html"><img src="images/om/p-1.png"
+                                     alt=""></a></figure>
+                         <div class="lower-content">
+
+                             <h3><a href="service-single.html">Form Works</a></h3>
+
+                             <div class="link-btn"><a href="">View Porduct<i class="fas fa-arrow-right"></i></a>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+             <div class="col-lg-3 col-md-6 col-sm-12 service-block">
+                 <div class="service-block-two wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
+                     <div class="inner-box">
+                         <figure class="image-box"><a href="service-single.html"><img src="images/om/p-2.png"
+                                     alt=""></a></figure>
+                         <div class="lower-content">
+
+                             <h3><a href="service-single.html">Scaffoldings</a></h3>
+
+                             <div class="link-btn"><a href="">View Porduct<i class="fas fa-arrow-right"></i></a>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
 
 
-    <!-- subscribe-section -->
-    <section class="subscribe-section about-page bg-color-3">
-        <div class="container">
-            <div class="inner-box">
-                <figure class="icon-box"><img src="images/icons/paper-plane.png" alt=""></figure>
-                <div class="content-box">
-                    <h2>Get Subscribed Now!</h2>
-                    <div class="text">The latest agopa news, articles, and resources, sent straight to your<br />inbox
-                        every month.</div>
-                    <form action="#" method="post" class="subscribe-form">
-                        <div class="form-group">
-                            <input type="email" name="email" placeholder="Type Your Email" required="">
-                            <button type="submit">Subscribe Now</button>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- subscribe-section end -->
+
+             </div>
+             <div class="col-lg-3 col-md-6 col-sm-12 service-block">
+                 <div class="service-block-two wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
+                     <div class="inner-box">
+                         <figure class="image-box"><a href="service-single.html"><img src="images/om/p-3.png"
+                                     alt=""></a></figure>
+                         <div class="lower-content">
+
+                             <h3><a href="service-single.html">
+                                     Geotechnics</a></h3>
+
+                             <div class="link-btn"><a href="">View Porduct<i class="fas fa-arrow-right"></i></a>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+             <div class="col-lg-3 col-md-6 col-sm-12 service-block">
+                 <div class="service-block-two wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
+                     <div class="inner-box">
+                         <figure class="image-box"><a href="service-single.html"><img src="images/om/p-4.png"
+                                     alt=""></a></figure>
+                         <div class="lower-content">
+
+                             <h3><a href="service-single.html">Fabrication</a></h3>
+
+                             <div class="link-btn"><a href="">View Porduct<i class="fas fa-arrow-right"></i></a>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+         </div>
+     </div>
+ </section>
+
+ <section class="about-style-two">
+     <div class="container">
+         <div class="inner-content">
+             <div class="anim-icon-1"></div>
+             <div class="row">
+                 <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                     <div class="content-box">
+                         <div class="top-content">
+                             <div class="top-text">Infrastructure</div>
+                             <h1>Our infrastructure is built to support accuracy, creativity, and quick delivery.
+                             </h1>
+                          
+                             <div class="text">Advanced Manufacturing Complex: Our factory has high-precision CNC
+                                 machines and automated robotic welding lines, so every part we make is accurate.
+                             </div>
+                         </div>
+                         <div class="inner-box wow fadeInLeft animated" data-wow-delay="300ms"
+                             data-wow-duration="1500ms">
+                             <div class="row">
+                                 <div class="col-lg-6 col-md-6 col-sm-12 single-column">
+                                     <div class="single-item">
+                                         <div class="icon-box"><i class="flaticon-factory-machine"></i></div>
+                                         <h5><a href="#">R&D and Stress-Testing Lab</a></h5>
+                                   
+                                     </div>
+                                 </div>
+                                 <div class="col-lg-6 col-md-6 col-sm-12 single-column">
+                                     <div class="single-item">
+                                         <div class="icon-box"><i class="flaticon-oil"></i></div>
+                                         <h5><a href="#">Logistics and Global Fulfilment Hubs</a></h5>
+                               
+                                     </div>
+                                 </div>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+                 <div class="col-lg-6 col-md-12 col-sm-12 image-column">
+                     <div class="image-box">
+                         <div class="anim-icon-2 wow zoomIn" data-wow-delay="900ms" data-wow-duration="1500ms"></div>
+                         <figure class="image"><img src="images/om/3.jpg" alt=""></figure>
+                     </div>
+                 </div>
+             </div>
+         </div>
+     </div>
+ </section>
 
 
  <?php include 'include/footer.php'; ?>

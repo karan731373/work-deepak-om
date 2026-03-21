@@ -1,62 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-
     <title>Om Exports</title>
-
-    <!-- Stylesheets -->
     <link href="css/style.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 
 </head>
-
-<!-- page wrapper -->
-
 <body class="boxed_wrapper">
-
-
-    <!-- preloader -->
     <div class="preloader"></div>
-    <!-- preloader -->
-
-
-
-
-    <!-- main header -->
     <header class="main-header style-two">
-        <!-- header-top -->
-        <!-- <div class="header-top">
-            <div class="container">
-                <div class="inner-container clearfix">
-                    <ul class="header-info pull-left">
-                        <li>Time : Monday-Friday 09am-5pm</li>
-                        <li><i class="flaticon-telephone-auricular-with-cable"></i><a href="tel:(+88)01912704287">(+88) 01912704287</a></li>
-                    </ul>
-                    <ul class="header-nav pull-right">
-                        <li><a href="#">Careers</a></li>
-                        <li><a href="#">Contacts</a></li>
-                        <li>
-                            <div class="language dropdownn">
-                                <a class="dropdown-toggle" id="dropdownMenu4" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" href="#">Eng</a>
-                                <ul class="dropdown-menu" aria-labelledby="dropdownMenu4">
-                                    <li><a href="#">Eng</a></li>
-                                    <li><a href="#">Chi</a></li>
-                                    <li><a href="#">Ger</a></li>
-                                    <li><a href="#">Fre</a></li>
-                                </ul>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div> -->
-
-        <!-- header-bottom -->
         <div class="header-bottom">
             <div class="container">
                 <div class="outer-container">
@@ -66,7 +22,7 @@
                             </figure>
                             <nav class="main-menu navbar-expand-lg">
                                 <div class="navbar-header">
-                                    <!-- Toggle Button -->
+                           
                                     <button type="button" class="navbar-toggle" data-toggle="collapse"
                                         data-target=".navbar-collapse">
                                         <span class="icon-bar"></span>
@@ -88,6 +44,7 @@
                                             </ul>
                                         </li>
                                         <li class=""><a href="infrastructure.php">Infrastructure</a></li>
+                                          <li class=""><a href="export.php">Export</a></li>
                                         <li class=""><a href="quality.php">Quality</a></li>
                                         <li class=""><a href="contact.php">Contact us</a></li>
 
@@ -102,115 +59,5 @@
                     </div>
                 </div>
             </div>
-        </div><!-- header-bottom end -->
-
-        <!--sticky Header-->
-        <!-- <div class="sticky-header">
-            <div class="container clearfix">
-                <figure class="logo-box"><a href="index.php"><img src="images/small-logo.png" alt=""></a></figure>
-                <div class="menu-area">
-                    <nav class="main-menu navbar-expand-lg">
-                        <div class="navbar-header">
-                               
-                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            </button>
-                        </div>
-                        <div class="navbar-collapse collapse clearfix">
-                            <ul class="navigation clearfix">
-                                <li class="current dropdown"><a href="#">Home</a>
-                                    <ul>
-                                        <li><a href="index.php">Home Factory</a></li>
-                                        <li><a href="index.php">Home Industry</a></li>
-                                        <li><a href="index-3.php">Home Construction</a></li>
-                                        <li><a href="index-4.php">Home Oil & Gas</a></li>
-                                        <li><a href="index-5.php">Home Power Energy</a></li>
-                                        <li><a href="index-6.php">Home Industrial Machinery</a></li>
-                                        <li><a href="index-7.php">Home Fabric & Textile</a></li>
-                                        <li><a href="index-8.php">Home Medical Equepments</a></li>
-                                        <li class="dropdown"><a href="#">Header Styles</a>
-                                            <ul>
-                                                <li><a href="index.php">Header Style 01</a></li>
-                                                <li><a href="index.php">Header Style 02</a></li>
-                                                <li><a href="index-3.php">Header Style 03</a></li>
-                                                <li><a href="index-4.php">Header Style 04</a></li>
-                                                <li><a href="index-5.php">Header Style 05</a></li>
-                                                <li><a href="index-6.php">Header Style 06</a></li>
-                                                <li><a href="index-7.php">Header Style 07</a></li>
-                                                <li><a href="index-8.php">Header Style 08</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="#">Page</a>
-                                    <ul>
-                                        <li class="dropdown"><a href="#">About Page</a>
-                                            <ul>
-                                                <li><a href="about.php">About Type 01</a></li>
-                                                <li><a href="about-2.php">About Type 02</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="#">Team Page</a>
-                                            <ul>
-                                                <li><a href="team.php">Team Type 01</a></li>
-                                                <li><a href="team-2.php">Team Type 02</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="#">Service Page</a>
-                                            <ul>
-                                                <li><a href="service.php">Service Type 01</a></li>
-                                                <li><a href="service-2.php">Service Type 02</a></li>
-                                                <li><a href="service-3.php">Service Type 03</a></li>
-                                                <li><a href="service-single.php">Service Single 01</a></li>
-                                                <li><a href="service-single-2.php">Service Single 02</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="#">Shop Page</a>
-                                            <ul>
-                                                <li><a href="shop.php">Shop Type 01</a></li>
-                                                <li><a href="shop-2.php">Shop Type 02</a></li>
-                                                <li><a href="shop-single.php">Single Shop</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="history.php">Our History</a></li>
-                                        <li><a href="partner.php">Our Partners</a></li>
-                                        <li><a href="testimonial.php">Our Testimonial</a></li>
-                                        <li><a href="gallery.php">Our Gallery</a></li>
-                                        <li><a href="coming-soon.php">Coming Soon</a></li>
-                                        <li><a href="error.php">Error Page</a></li>
-                                    </ul>
-                                </li> 
-                                <li class="dropdown"><a href="#">Case Studies</a>
-                                    <ul>
-                                        <li><a href="case.php">Case Type 01</a></li>
-                                        <li><a href="case-2.php">Case Type 02</a></li>
-                                        <li><a href="case-3.php">Case Type 03</a></li>
-                                        <li><a href="case-4.php">Case Type 04</a></li>
-                                        <li><a href="case-single.php">Case Single 01</a></li>
-                                        <li><a href="case-single-2.php">Case Single 02</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="#">Blog</a>
-                                    <ul>
-                                        <li><a href="blog-grid.php">Blog Grid</a></li>
-                                        <li><a href="blog-classic.php">Blog Classic</a></li>
-                                        <li><a href="blog-single.php">Blog Single</a></li>
-                                    </ul>
-                                </li>                              
-                                <li class="dropdown"><a href="#">Contact</a>
-                                    <ul>
-                                        <li><a href="contact.php">Contact Type 01</a></li>
-                                        <li><a href="contact-2.php">Contact Type 02</a></li>
-                                    </ul>
-                                </li> 
-                            </ul>
-                        </div>
-                    </nav>
-                </div>
-            </div>
-        </div> -->
-
+        </div>
     </header>
-    <!-- main-header end -->

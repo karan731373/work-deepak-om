@@ -1,6 +1,25 @@
 
 
-
+ <!-- subscribe-section -->
+ <section class="subscribe-section about-page bg-color-3 " style="background-color:#cf642e;">
+     <div class="container">
+         <div class="inner-box">
+             <figure class="icon-box"><img src="images/icons/paper-plane.png" alt=""></figure>
+             <div class="content-box">
+                 <h2>Get Subscribed Now!</h2>
+                 <div class="text">The latest agopa news, articles, and resources, sent straight to your<br />inbox
+                     every month.</div>
+                 <form action="#" method="post" class="subscribe-form">
+                     <div class="form-group">
+                         <input type="email" name="email" placeholder="Type Your Email" required="">
+                         <button type="submit">Subscribe Now</button>
+                     </div>
+                 </form>
+             </div>
+         </div>
+     </div>
+ </section>
+ <!-- subscribe-section end -->
     <!-- main-footer -->
     <footer class="main-footer style-two">
         <div class="container">
