@@ -20058,3 +20058,107 @@ color:#ff6a00;
             font-weight: 500;
             color: #333;
         }
+
+        /* SECTION BACKGROUND */
+.om-aboutsub {
+    background: #0f172a;
+}
+
+/* CARD BOX */
+.wo-we-do-om {
+    position: relative;
+    padding: 35px;
+    border-radius: 12px;
+    overflow: hidden;
+    z-index: 1;
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(8px);
+    border: 1px solid rgba(255,255,255,0.1);
+    transition: all 0.4s ease;
+}
+
+/* 🔥 ANIMATED ORANGE GRADIENT BORDER */
+.wo-we-do-om::before {
+    content: "";
+    position: absolute;
+    inset: -2px;
+    background: linear-gradient(270deg, #ff6a00, #ff9a00, #ff6a00);
+    background-size: 400% 400%;
+    z-index: -1;
+    animation: omGradientMove 6s ease infinite;
+    border-radius: 12px;
+}
+
+@keyframes omGradientMove {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+/* HOVER EFFECT */
+.wo-we-do-om:hover {
+    transform: translateY(-8px);
+}
+
+/* TITLE */
+.om-title {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+/* TEXT */
+.wo-we-do-om p {
+    color: #e5e5e5;
+    line-height: 1.7;
+    font-size: 15px;
+}
+
+/* LIST */
+.om-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 15px 0;
+}
+
+.om-list li {
+    padding-left: 25px;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.om-list li::before {
+    content: "✔";
+    position: absolute;
+    left: 0;
+    color: #ff9a00;
+}
+
+/* ✨ CSS ANIMATION */
+.om-animate-left {
+    opacity: 0;
+    transform: translateX(-60px);
+    animation: slideLeft 1s ease forwards;
+    animation-delay: 0.3s;
+}
+
+.om-animate-right {
+    opacity: 0;
+    transform: translateX(60px);
+    animation: slideRight 1s ease forwards;
+    animation-delay: 0.5s;
+}
+
+@keyframes slideLeft {
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes slideRight {
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}

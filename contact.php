@@ -27,7 +27,11 @@
                     <h3 class="om-contact-title">Main Office</h3>
                     <div class="om-contact-divider"></div>
                     <div class="om-contact-detail">
-                        Industrial Area, Phase 2, Ludhiana, Punjab
+                        Plot No. 3, Pawa Road
+Industrial Area C
+Jaspal Bangar
+Ludhiana – 141122, India
+
                     </div>
                 </div>
             </div>
@@ -40,8 +44,8 @@
                     <h3 class="om-contact-title">Phone Support</h3>
                     <div class="om-contact-divider"></div>
                     <div class="om-contact-detail">
-                        <a href="tel:+917719530167">+917719530167</a>
-                        <!-- <a href="tel:029292162">+02 929 2162</a> -->
+                        <a href="tel:+919872700049">+919872700049</a>
+                        <a href="tel:+917719530167">+91 77195 30167</a>
                     </div>
                 </div>
             </div>
@@ -55,7 +59,8 @@
                     <div class="om-contact-divider"></div>
                     <div class="om-contact-detail">
                         <a href="mailto:omexports2021@gmail.com">omexports2021@gmail.com</a>
-                        <a href="mailto:support@example.com">support@om-group.com</a>
+                        <a
+                                                href="mailto:info@omexpoworld.com">info@omexpoworld.com</a>
                     </div>
                 </div>
             </div>
@@ -93,21 +98,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 map-column">
-                    <div class="google-map-area">
-                        <div 
-                            class="google-map" 
-                            id="contact-google-map" 
-                            data-map-lat="40.712776" 
-                            data-map-lng="-74.005974" 
-                            data-icon-path="images/icons/map-marker.png"  
-                            data-map-title="Brooklyn, New York, United Kingdom" 
-                            data-map-zoom="12" 
-                            data-markers='{
-                                "marker-1": [40.712776, -74.005974, "<h4>Branch Office</h4><p>77/99 New York</p>","images/icons/map-marker.png"]
-                            }'>
-
-                        </div>
-                    </div>
+                 
                 </div>
             </div>
         </div>

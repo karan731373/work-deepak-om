@@ -93,11 +93,12 @@
                     <div class="col-lg-4 col-md-12 col-sm-12 content-column">
                         <div class="content-box wow fadeInRight" data-wow-delay="300ms" data-wow-duration="1500ms">
                             <div class="icon-box"><i class="flaticon-script"></i></div>
-                            <h3 class="group-title">Our Story</h3>
-                            <p>We specialize in high-tensile formwork, modular scaffolding, and advanced geotechnical
-                                solutions that support projects from start to finish. Over the years, we have built
-                                strong partnerships with Tier-1 contractors and developers who trust our technical
-                                expertise and commitment to quality.</p>
+                            <h3 class="group-title">Mission</h3>
+                            <p>Our mission is to manufacture high-quality construction accessories that contribute to
+                                safe, efficient, and durable infrastructure development.
+                                We are committed to delivering products that combine strong engineering design, reliable
+                                materials, and consistent manufacturing standards.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -120,6 +121,55 @@
         </div>
     </div>
 </section>
+<section class="om-aboutsub py-5">
+
+  <div class="container">
+    <div class="row">
+
+      <!-- Who We Are -->
+      <div class="col-lg-6 mb-4">
+        <div class="wo-we-do-om om-animate-left text-white h-100">
+          <h2 class="om-title">Who We Are</h2>
+
+          <p>
+            Established with a vision to support the evolving needs of the construction industry, OM Exports has grown into a reliable partner for contractors, engineers, and infrastructure developers. Our expertise lies in understanding complex project demands and delivering solutions that enhance structural integrity, safety, and operational efficiency.
+          </p>
+
+          <p>
+            Based in Ludhiana, one of India’s most prominent engineering and manufacturing hubs, we benefit from a well-developed industrial ecosystem. This includes access to skilled labor, modern machinery, and a robust supply chain network—allowing us to maintain consistency in quality and efficiency in production.
+          </p>
+        </div>
+      </div>
+
+      <!-- What We Do -->
+      <div class="col-lg-6 mb-4">
+        <div class="wo-we-do-om om-animate-right text-white h-100">
+          <h2 class="om-title">What We Do</h2>
+
+          <p>
+            We manufacture a wide portfolio of construction and engineering products, including:
+          </p>
+
+          <ul class="om-list">
+            <li>Advanced formwork systems designed for precision and durability</li>
+            <li>Reliable scaffolding accessories that ensure safety and support on-site</li>
+            <li>High-strength geotechnical components for ground stability and reinforcement</li>
+            <li>Custom fabrication solutions tailored to specific project needs</li>
+          </ul>
+
+          <p>
+            Each product is engineered to meet rigorous industry standards and is suitable for a variety of applications, from residential and commercial construction to large-scale infrastructure projects.
+          </p>
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</section>
+
+
 <section class="om-exports-choose-us-about">
     <div class="container">
 

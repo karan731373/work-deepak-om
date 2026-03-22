@@ -67,11 +67,18 @@
                                 <h4 class="widget-title">Contact Us</h4>
                                 <div class="widget-content">
                                     <ul class="contact-info">
-                                        <li><i class="fas fa-map-marker-alt"></i> Industrial Area, Phase 2,
-                                            Ludhiana, Punjab</li>
-                                        <li><i class="fas fa-phone"></i> <a href="tel:+917719530167">+917719530167</a>
+                                        <li><i class="fas fa-map-marker-alt"></i>Plot No. 3, Pawa Road
+Industrial Area C
+Jaspal Bangar
+Ludhiana – 141122, India
+</li>
+                                        <li><i class="fas fa-phone"></i> <a href="tel:+917719530167">+91 77195 30167</a>
+                                        </li>
+                                          <li><i class="fas fa-phone"></i> <a href="tel:+919872700049">+919872700049</a>
                                         </li>
                                         <li><i class="fas fa-envelope"></i> <a
+                                                href="mailto:info@omexpoworld.com">info@omexpoworld.com</a></li>
+                                          <li><i class="fas fa-envelope"></i> <a
                                                 href="mailto:omexports2021@gmail.com">omexports2021@gmail.com</a></li>
                                     </ul>
                                 </div>
